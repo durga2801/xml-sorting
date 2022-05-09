@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table name="ABCD">
+    <column name="A" type="M"></column>
+    <column name="B" type="T"></column>
+    <row>
+        <attribute name="A">
+            <value>BBBB</value>
+        </attribute>
+        <attribute name="B">
+            <value>AAA</value>
+        </attribute>
+    </row>
+    <row>
+        <attribute name="A">
+            <value>AAAA</value>
+        </attribute>
+        <attribute name="B">
+            <value>DDDDD</value>
+        </attribute>
+    </row>
+</table>
